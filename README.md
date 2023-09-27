@@ -27,8 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samay-jain&show_icons=true&locale=en" alt="samay-jain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samay-jain&" alt="samay-jain" /></p>
-
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samay-jain&theme=nord_dark"/></p>
 
 

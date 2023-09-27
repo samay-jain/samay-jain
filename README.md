@@ -30,3 +30,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samay-jain&" alt="samay-jain" /></p>
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samay-jain&theme=nord_dark"/></p>
+
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=samay-jain&label=Profile%20Views&color=9&icon=9&pretty=true" />
+  </a>
+</p>

@@ -12,6 +12,8 @@
   
 - 📫 How to reach me: samayjain666@gmail.com
 
+- 📄 Know about my experiences https://drive.google.com/file/d/1KzluflPKPdTPeV_Eb__QwCp0him_4HIS/view?usp=sharing
+
 - 😄 Pronouns: **Samay (S-uh-m-uh-y; समय)**
   
 - ⚡ Fun fact: **Even if I am in an event or friend circle, I keep getting lost in thoughts, because of which I keep forgetting the point of conversation😂**
